@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Alexxa.Examples", "Alexxa.Examples\Alexxa.Examples.csproj", "{FE70F73F-029A-4482-9C35-3F72AD56BDDE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Alexxa.Core.Management", "Alexxa.Core.Management\Alexxa.Core.Management.csproj", "{1E279621-6263-4C16-B542-2EE5411FA849}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Alexxa.Core.Common", "Alexxa.Core.Common\Alexxa.Core.Common.csproj", "{176C839C-9BED-4957-89BC-7962BEBBE430}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Alexxa.Core.Data", "Alexxa.Core.Data\Alexxa.Core.Data.csproj", "{8478B117-C4EC-4E48-BB63-AB62F9FB52EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE70F73F-029A-4482-9C35-3F72AD56BDDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE70F73F-029A-4482-9C35-3F72AD56BDDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE70F73F-029A-4482-9C35-3F72AD56BDDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE70F73F-029A-4482-9C35-3F72AD56BDDE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E279621-6263-4C16-B542-2EE5411FA849}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E279621-6263-4C16-B542-2EE5411FA849}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E279621-6263-4C16-B542-2EE5411FA849}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E279621-6263-4C16-B542-2EE5411FA849}.Release|Any CPU.Build.0 = Release|Any CPU
+		{176C839C-9BED-4957-89BC-7962BEBBE430}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{176C839C-9BED-4957-89BC-7962BEBBE430}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{176C839C-9BED-4957-89BC-7962BEBBE430}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{176C839C-9BED-4957-89BC-7962BEBBE430}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8478B117-C4EC-4E48-BB63-AB62F9FB52EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8478B117-C4EC-4E48-BB63-AB62F9FB52EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8478B117-C4EC-4E48-BB63-AB62F9FB52EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8478B117-C4EC-4E48-BB63-AB62F9FB52EA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
