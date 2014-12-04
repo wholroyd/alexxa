@@ -1,7 +1,7 @@
 alexxa
 ========
 
-Data partitioning library for use with Microsoft SQL Server 2008 - 2012
+Data partitioning library for use with Microsoft SQL Server 2008 - 2014 that attempts to replicate the sharding/partitioning functionality of Microsoft's internal WebStore tooling without the fail-safe-set feature.
 
 examples with data
 ==================
