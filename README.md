@@ -1,6 +1,8 @@
 alexxa
 ========
 
+[![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/wholroyd/alexxa?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Data partitioning library for use with Microsoft SQL Server 2008 - 2014 that attempts to replicate the sharding/partitioning functionality of Microsoft's internal WebStore tooling without the fail-safe-set feature.
 
 examples with data
